@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--& problem in xml content replace by &amp;-->
+<VideoData>
+	<video id="1" titleEn="Base Programing" titleFa="برنامه نویسی پایه با سی شارپ" cover="base_vid_1.jpg" desEn="Part one" desFa="قسمت اول">
+		<VideoLinks>
+			<link id="1" title="بخش اول : انواع داده ها (data types)" url="teach/csharp_base_vid_1_part_1.mp4"></link>
+			<link id="2" title="بخش دوم : تعریف متغیر ها (variables)" url="teach/csharp_base_vid_1_part_2.mp4"></link>
+			<link id="3" title="بخش سوم : دریافت ورودی از کاربر (get input (ReadLine))" url="teach/csharp_base_vid_1_part_3.mp4"></link>
+			<link id="4" title="بخش چهارم : تبدیل انواع داده (cast (Parse))" url="teach/csharp_base_vid_1_part_4.mp4"></link>
+			<link id="5" title="بخش پنجم : دستورات شرطی (if-else)" url="teach/csharp_base_vid_1_part_5.mp4"></link>
+			<link id="6" title="youtube" url="https://www.youtube.com/playlist?list=PL8VyLtekGWyxSsHfWQW74756uq0odb8WQ"></link>
+
+		</VideoLinks>
+	</video>
+	<video id="2" titleEn="Base Programing" titleFa="برنامه نویسی پایه با سی شارپ" cover="base_vid_2.jpg" desEn="Part two" desFa="قسمت دوم">
+		<VideoLinks>
+			<link id="1" title="بخش اول : مرور مطالب قبلی" url="teach/csharp_base_vid_2_part_1.mp4"></link>
+			<link id="4" title="بخش دوم : سایر روش های تعریف متغیر (var, dynamic)" url="teach/csharp_base_vid_2_part_2.mp4"></link>
+			<link id="2" title="بخش سوم : دستورات شرطی (if-else if)" url="teach/csharp_base_vid_2_part_3.mp4"></link>
+			<link id="3" title="بخش چهارم : رفع خستگی با بوق! (beep)" url="teach/csharp_base_vid_2_part_4.mp4"></link>
+			<link id="5" title="بخش پنجم : کنترل خطاهای زمان اجر (try-catch)" url="teach/csharp_base_vid_2_part_5.mp4"></link>
+			<link id="6" title="بخش ششم : کنترل خطاهای زمان اجر (try-catch)" url="teach/csharp_base_vid_2_part_6.mp4"></link>
+			<link id="7" title="بخش هفتم : مرور مطالب" url="teach/csharp_base_vid_2_part_7.mp4"></link>
+			<link id="8" title="youtube" url="https://www.youtube.com/playlist?list=PL8VyLtekGWyxSsHfWQW74756uq0odb8WQ"></link>
+		</VideoLinks>
+	</video>
+	<video id="3" titleEn="Base Programing" titleFa="برنامه نویسی پایه با سی شارپ" cover="base_vid_3.jpg" desEn="Part three" desFa="قسمت سوم">
+		<VideoLinks>
+			<link id="1" title="youtube" url="https://www.youtube.com/playlist?list=PL8VyLtekGWyxSsHfWQW74756uq0odb8WQ"></link>
+		</VideoLinks>
+	</video>
+</VideoData>
