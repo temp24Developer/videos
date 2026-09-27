@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'vazir';
+    src: url('../font/vazir.ttf') format('truetype');
+}
+
 *:root {
     --orange: #f26522;
 }
@@ -5,6 +10,7 @@
 
 body {
     /*    background-color: black;*/
+    font-family:'vazir';
 }
 
 .text-orange {
