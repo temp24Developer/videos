@@ -1,65 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <!--& problem in xml content replace by &amp;-->
 <VideoData>
-	<video id="1" titleEn="Base Programing" titleFa="برنامه نویسی پایه با سی شارپ" cover="csharp_base_vid_1.jpg" desEn="Part one" desFa="قسمت اول">
+	<video id="1" titleEn="Base Programing" titleFa="برنامه نویسی پایه با سی شارپ" cover="base_vid_1.jpg" desEn="Part one" desFa="قسمت اول">
 		<VideoLinks>
-			<link id="1" title="انواع داده ها (data types)" url="teach/csharp/csharp_base_vid_1_part_1.mp4"></link>
-			<link id="2" title="تعریف متغیر ها (variables)" url="teach/csharp/csharp_base_vid_1_part_2.mp4"></link>
-			<link id="3" title="دریافت ورودی از کاربر (ReadLine)" url="teach/csharp/csharp_base_vid_1_part_3.mp4"></link>
-			<link id="4" title="تبدیل انواع داده (Parse)" url="teach/csharp/csharp_base_vid_1_part_4.mp4"></link>
-			<link id="5" title="دستورات شرطی (if-else)" url="teach/csharp/csharp_base_vid_1_part_5.mp4"></link>
+			<link id="1" title="بخش اول : انواع داده ها (data types)" url="teach/csharp_base_vid_1_part_1.mp4"></link>
+			<link id="2" title="بخش دوم : تعریف متغیر ها (variables)" url="teach/csharp_base_vid_1_part_2.mp4"></link>
+			<link id="3" title="بخش سوم : دریافت ورودی از کاربر (get input (ReadLine))" url="teach/csharp_base_vid_1_part_3.mp4"></link>
+			<link id="4" title="بخش چهارم : تبدیل انواع داده (cast (Parse))" url="teach/csharp_base_vid_1_part_4.mp4"></link>
+			<link id="5" title="بخش پنجم : دستورات شرطی (if-else)" url="teach/csharp_base_vid_1_part_5.mp4"></link>
 			<link id="6" title="youtube" url="https://www.youtube.com/playlist?list=PL8VyLtekGWyxSsHfWQW74756uq0odb8WQ"></link>
 
 		</VideoLinks>
 	</video>
-	<video id="2" titleEn="Base Programing" titleFa="برنامه نویسی پایه با سی شارپ" cover="csharp_base_vid_2.jpg" desEn="Part two" desFa="قسمت دوم">
+	<video id="2" titleEn="Base Programing" titleFa="برنامه نویسی پایه با سی شارپ" cover="base_vid_2.jpg" desEn="Part two" desFa="قسمت دوم">
 		<VideoLinks>
-			<link id="1" title="مرور مطالب قبلی" url="teach/csharp/csharp_base_vid_2_part_1.mp4"></link>
-			<link id="4" title="بخش اول : سایر روش های تعریف متغیر (var, dynamic)" url="teach/csharp/csharp_base_vid_2_part_2.mp4"></link>
-			<link id="2" title="دستورات شرطی (if-else if)" url="teach/csharp/csharp_base_vid_2_part_3.mp4"></link>
-			<link id="3" title="رفع خستگی با بوق! (beep)" url="teach/csharp/csharp_base_vid_2_part_4.mp4"></link>
-			<link id="5" title="بخش اول : کنترل خطاهای زمان اجر (try-catch)" url="teach/csharp/csharp_base_vid_2_part_5.mp4"></link>
-			<link id="6" title="بخش دوم : کنترل خطاهای زمان اجر (try-catch)" url="teach/csharp/csharp_base_vid_2_part_6.mp4"></link>
-			<link id="7" title="مرور مطالب" url="teach/csharp/csharp_base_vid_2_part_7.mp4"></link>
+			<link id="1" title="بخش اول : مرور مطالب قبلی" url="teach/csharp_base_vid_2_part_1.mp4"></link>
+			<link id="4" title="بخش دوم : سایر روش های تعریف متغیر (var, dynamic)" url="teach/csharp_base_vid_2_part_2.mp4"></link>
+			<link id="2" title="بخش سوم : دستورات شرطی (if-else if)" url="teach/csharp_base_vid_2_part_3.mp4"></link>
+			<link id="3" title="بخش چهارم : رفع خستگی با بوق! (beep)" url="teach/csharp_base_vid_2_part_4.mp4"></link>
+			<link id="5" title="بخش پنجم : کنترل خطاهای زمان اجر (try-catch)" url="teach/csharp_base_vid_2_part_5.mp4"></link>
+			<link id="6" title="بخش ششم : کنترل خطاهای زمان اجر (try-catch)" url="teach/csharp_base_vid_2_part_6.mp4"></link>
+			<link id="7" title="بخش هفتم : مرور مطالب" url="teach/csharp_base_vid_2_part_7.mp4"></link>
 			<link id="8" title="youtube" url="https://www.youtube.com/playlist?list=PL8VyLtekGWyxSsHfWQW74756uq0odb8WQ"></link>
 		</VideoLinks>
 	</video>
-	<video id="3" titleEn="Base Programing" titleFa="برنامه نویسی پایه با سی شارپ" cover="csharp_base_vid_3.jpg" desEn="Part three" desFa="قسمت سوم">
+	<video id="3" titleEn="Base Programing" titleFa="برنامه نویسی پایه با سی شارپ" cover="base_vid_3.jpg" desEn="Part three" desFa="قسمت سوم">
 		<VideoLinks>
-			<link id="1" title="مرور مطالب قبلی" url="teach/csharp/csharp_base_vid_3_part_1.mp4"></link>
-			<link id="4" title="تولید اعداد تصادفی (Random)" url="teach/csharp/csharp_base_vid_3_part_2.mp4"></link>
-			<link id="2" title="مقدمه ای بر حلقه ها (for, while)" url="teach/csharp/csharp_base_vid_3_part_3.mp4"></link>
-			<link id="3" title="حلقه (for)" url="teach/csharp/csharp_base_vid_3_part_4.mp4"></link>
-			<link id="5" title="حلقه (while)" url="teach/csharp/csharp_base_vid_3_part_5.mp4"></link>
-			<link id="6" title="بازی حدس عدد" url="teach/csharp/csharp_base_vid_3_part_6.mp4"></link>
-			<link id="7" title="تمرین" url="teach/csharp/csharp_base_vid_3_part_7.mp4"></link>
-			<link id="8" title="مرور مطالب" url="teach/csharp/csharp_base_vid_3_part_8.mp4"></link>
-			<link id="9" title="youtube" url="https://www.youtube.com/playlist?list=PL8VyLtekGWyxSsHfWQW74756uq0odb8WQ"></link>
-		</VideoLinks>
-	</video>
-	<video id="1" titleEn="python base" titleFa="مرور سرفصل های پایتون" cover="python_base_vid_1.jpg" desEn="Part one" desFa="قسمت اول">
-		<VideoLinks>
-			<link id="1" title="ایجاد فایل پایتون (vs code)" url="teach/python/python_base_vid_1_part_2.mp4"></link>
-			<link id="2" title="انواع داده ها (data types)" url="teach/python/python_base_vid_1_part_2.mp4"></link>
-			<link id="3" title="تعریف متغیر ها (variables)" url="teach/python/python_base_vid_1_part_3.mp4"></link>
-			<link id="4" title="مقدمه تبدیل انواع + دریافت ورودی (input)" url="teach/python/python_base_vid_1_part_4.mp4"></link>
-			<link id="5" title="تبدیل انواع داده (convert data types)" url="teach/python/python_base_vid_1_part_5.mp4"></link>
-			<link id="6" title="قالب بندی متن (format string)" url="teach/python/python_base_vid_1_part_6.mp4"></link>
-			<link id="7" title="دستورات شرطی (if-else)" url="teach/python/python_base_vid_1_part_7.mp4"></link>
-			<link id="8" title="دستورات شرطی (if-elif)" url="teach/python/python_base_vid_1_part_8.mp4"></link>
-			<link id="9" title="رفع خستگی با بوق! (beep)" url="teach/python/python_base_vid_1_part_9.mp4"></link>
-			<link id="10" title="مرور بر شرط ها (if-else, if-elif)" url="teach/python/python_base_vid_1_part_10.mp4"></link>
-			<link id="11" title="ترکیب شرط ها (and)" url="teach/python/python_base_vid_1_part_11.mp4"></link>
-			<link id="12" title="ترکیب شرط ها (or)" url="teach/python/python_base_vid_1_part_12.mp4"></link>
-			<link id="13" title="دستورات شرطی (match)" url="teach/python/python_base_vid_1_part_13.mp4"></link>
-			<link id="14" title="لیست ها در پایتون (list)" url="teach/python/python_base_vid_1_part_14.mp4"></link>
-			<link id="15" title="دستورات لیست : لیست های عدد" url="teach/python/python_base_vid_1_part_15.mp4"></link>
-			<link id="16" title="دستورات لیست : دستورات عمومی" url="teach/python/python_base_vid_1_part_16.mp4"></link>
-			<link id="17" title="برش لیست (slice)" url="teach/python/python_base_vid_1_part_17.mp4"></link>
-			<link id="18" title="دستورات لیست : اضافه کردن " url="teach/python/python_base_vid_1_part_18.mp4"></link>
-			<link id="19" title="دستورات لیست : حذف" url="teach/python/python_base_vid_1_part_19.mp4"></link>
-			<link id="20" title="مرور مطالب" url="teach/python/python_base_vid_1_part_20.mp4"></link>
-			<link id="21" title="youtube" url="https://www.youtube.com/playlist?list=PL8VyLtekGWyxSsHfWQW74756uq0odb8WQ"></link>
+			<link id="1" title="youtube" url="https://www.youtube.com/playlist?list=PL8VyLtekGWyxSsHfWQW74756uq0odb8WQ"></link>
 		</VideoLinks>
 	</video>
 </VideoData>

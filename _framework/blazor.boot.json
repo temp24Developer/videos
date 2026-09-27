@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "temp24DeveloperVideo",
   "resources": {
-    "hash": "sha256-ebfZoiE6UQtaZzJnLAX3mJ6dk9w9/YnKBKnMPckBdK8=",
+    "hash": "sha256-xgAMBUzo2hKZi28jnKTG2UNU1mKAj3wuwc6oMpjxfgA=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -58,7 +58,7 @@
       "System.Threading.wasm": "sha256-MNqp/FezvTrjSPHHDSLgnUDkIFRy7VjJNQY0U0WrnE8=",
       "System.Xml.ReaderWriter.wasm": "sha256-XSE8PQug1/SKgORUaAd+py3EdrpVrmXGXMCo/jPccFs=",
       "System.Xml.XmlSerializer.wasm": "sha256-IDOjtFjcBx7G6UJ54KtFxzOV6jDMIUwCXJVHXwSqGmQ=",
-      "temp24DeveloperVideo.wasm": "sha256-V/awY7bIDjLAZo4PaWTG13NM+4J+2Zbze+hE1DSsEeM="
+      "temp24DeveloperVideo.wasm": "sha256-maPA3GHZgYLifeAJ2EsaROL7ipHFHo2L1Ib8pn2eqos="
     }
   },
   "cacheBootResources": true,
